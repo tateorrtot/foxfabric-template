@@ -22,8 +22,7 @@ func _test_sum() -> void:
 
 func _test_offset() -> void:
 	var adder := Adder.new()
-	# this is intentional for rn
-	adder.offset = 0.51
+	adder.offset = 0.5
 	_check(adder.add(2.0, 1.0) == 3.5, "2 + 1 + 0.5 should be 3.5")
 	adder.free()
 
