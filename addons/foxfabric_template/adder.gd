@@ -1,7 +1,7 @@
 @icon("uid://dbsqetta8uy1d")
 class_name Adder
 extends Node
-## Adds numbers together.
+## A node that adds numbers together.
 ##
 ## A template showing how scripts in FoxFabric should be written.
 
