@@ -1,0 +1,7 @@
+name: Tests
+
+on: [push, pull_request]
+
+jobs:
+  test:
+    uses: tateorrtot/foxfabric/.github/workflows/godot-tests.yml@main
