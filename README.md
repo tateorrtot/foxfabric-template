@@ -1,11 +1,11 @@
 # FoxFabric Template
 
-v1.0.0\
-2026-11-11
+v0.1.0\
+2026-11-13
 
 Template for creating other FoxFabric addons.
 
-Contains a sample class `Adder` and demo on its usage.
+Contains a sample class `Adder` and a demo on its usage.
 
 
 ## Example
@@ -24,7 +24,7 @@ print(result) # 3.0
 
 ## Requirements
 
-Godot 4.7 or above
+Tested on Godot 4.7
 
 
 ## Installation
@@ -33,5 +33,5 @@ Copy `addons/foxfabric_template` into your project's `addons/` folder.
 
 ---
 
-This addon is part of FoxFabric!\
+This addon is part of [FoxFabric](https://github.com/tateorrtot/foxfabric)!\
 by tateorrtot
